@@ -23,14 +23,21 @@
   Inventory management and dynamic pricing play a key role in cutting down waste and encouraging responsible consumption. By matching inventory levels to actual demand, the system helps prevent overproduction and spoilage, making product management more sustainable.
 
 # IV. Instruction for running the program
-  1.Download the ZIP file containing the code.
-  2.Unzip the file that includes:
-    * Python code
-    * SQL file containing database schema.
-    * An asset folder with any necessary image.
-  3.Open your mySQL then turn on both Apache and MySQL. Ensure both are running.
-  4.Open phpMyadmin or click the admin next to MySQL and create database named spm_db.
+  1. Download the ZIP file containing the code.
+  
+  2. Unzip the file that includes:
+  * Python code
+  * SQL file containing database schema.
+  * An asset folder with any necessary image.
+  
+  3. Open your mySQL then turn on both Apache and MySQL. Ensure both are running.
+  
+  4. Open phpMyadmin or click the admin next to MySQL and create database named spm_db.
+  
   5. After creating, select it and import the included SQL file to set up the necessary tables.
-  6.After that, go back to open the SmartPricingModel.py file and run the code using Python interpreter.
-  7.Upon launching the program, a login screen will appear. Enter one of the predefined usernames(try maddie) and the corresponding password (maddie28) to access the system.
-  8.Once you login, you can now perform the following action and explore the system.
+ 
+  6. After that, go back to open the SmartPricingModel.py file and run the code using Python interpreter.
+     
+  7. Upon launching the program, a login screen will appear. Enter one of the predefined usernames(try maddie) and the corresponding password (maddie28) to access the system.
+ 
+  8. Once you login, you can now perform the following action and explore the system.
