@@ -9,7 +9,6 @@
 
   With features such as dynamic pricing, inventory management, and thorough record-keeping, this system makes everyday tasks easier while opening doors for growth. It helps you boost revenue during busy times, manage stock to cut down on waste, and gain insights into what your customers prefer. This system truly addresses the practical needs of entrepreneurs who are eager to improve their businesses. In the end, it’s a move towards creating a smarter and more sustainable future for small business owners, one cup of coffee at a time
 
-
 # II. Explanation of how Python concepts, libraries, etc. were apllied
 ## 1. Libraries used:
 **- tkinter:** This is Python's standard GUI (Graphical User Interface) library. In this code, it's used to create windows, buttons, labels, and other interactive elements.
@@ -76,7 +75,6 @@
 ## 9. Main Function:
 **- if __name__ == "__main__":** block ensures the application runs only when the script is directly executed.
 
-
 # III. SDG and its integration into the project
 ## SDG 8: Decent Work and Economic Growth
   The system supports the growth of small and medium-sized businesses, like coffee shops, by optimizing pricing strategies and improving how they operate. With dynamic pricing, businesses can boost their revenue by adjusting to changes in customer demand. At the same time, effective inventory management helps minimize waste and avoid overstocking, making it easier for owners to run their shops smoothly.
@@ -86,7 +84,6 @@
 
 ## SDG 12: Responsible Consumption and Production
   Inventory management and dynamic pricing play a key role in cutting down waste and encouraging responsible consumption. By matching inventory levels to actual demand, the system helps prevent overproduction and spoilage, making product management more sustainable.
-
 
 # IV. Instruction for running the program
   1. Download the ZIP file containing the code.
