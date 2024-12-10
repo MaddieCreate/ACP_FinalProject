@@ -19,12 +19,61 @@
 
 **- time:** Provides time-related functions, used here for event debouncing.
 
-## Object-Oriented Programming (OOP): The entire application is structured as a class **CoffeeShopPOS**. this demonstrates key OOP principles:
-**-** The class has an __init__ method (constructor) that sets up the initial state
+## 2. Object-Oriented Programming (OOP): The entire application is structured as a class **CoffeeShopPOS**. this demonstrates key OOP principles:
+**-** The class has an __init__ method (constructor) that sets up the initial state.
 
-**-** Methods like **login(), main_screen(), add_item()** are class methods that perform specific actions
+**-** Methods like **login(), main_screen(), add_item()** are class methods that perform specific actions.
 
-**- self** is used to refer to the instance of the class, allowing methods to access and modify object attributes
+**- self** is used to refer to the instance of the class, allowing methods to access and modify object attributes.
+
+## 3. Database Interaction:
+**-** The **connect_to_db()** method establishes a connection to a mySQL database.
+
+**-** **create_table** method dynamically creates database tables if they don't exist.
+
+**-** Methods like** add_item(), update_item(),** and **delete_item()** interact with the database using SQL queries.
+
+**-** Uses parameterized queries for safe database interactions.
+
+## 4. Error Handling:
+**-** Extensive use of **try/except** blocks to catch and handle potential errors.
+
+**-** **messagebox** from tkinter is used to display user-friendly error and success messages.
+
+## 5. GUI design Techniques:
+**-** Dynamic widget creation and destruction using methods like **clear_content().**
+
+**-** Use of frames and labels to organize UI elements.
+
+**-** Implementing login system with predefined user credentials.
+
+**-** Creating popup windows for different functionalities.
+
+## 6. Event Handling:
+**-** Button commands linked to specific methods **(command=self.validate_login).**
+
+**-** Event binding for interactive elements like the item deletion listbox.
+
+**-** Implementing debouncing in the delete item method to prevent rapid, unintended actions.
+
+## 7. Data Manipulation:
+**-** Dynamic price calculation based on time of day.
+
+**-** Inventory and pricing management.
+
+**-** Transaction and history tracking.
+
+## 8.  Advance Python Features:
+**-** List comprehensions.
+
+**-** Dictionary usage for user authentication.
+
+**-** Timestamp handling.
+
+**-** Type conversion (string to float/int).
+
+## 9. Main Function:
+**- if __name__ == "__main__":** block ensures the application runs only when the script is directly executed.
 
 # III. SDG and its integration into the project
 ## SDG 8: Decent Work and Economic Growth
