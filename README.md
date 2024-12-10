@@ -12,13 +12,18 @@
 # II. Explanation of how Python concepts, libraries, etc. were apllied
 ## 1. Libraries used:
 **- tkinter:** This is Python's standard GUI (Graphical User Interface) library. In this code, it's used to create windows, buttons, labels, and other interactive elements.
+
 **- PIL (Python Imaging Library):** Used for image handling, specifically to load and display the background image.
+
 **- mysql.connector:** Enables connection and interaction with MySQL databases.
+
 **- time:** Provides time-related functions, used here for event debouncing.
 
 ## Object-Oriented Programming (OOP): The entire application is structured as a class **CoffeeShopPOS**. this demonstrates key OOP principles:
 **-** The class has an __init__ method (constructor) that sets up the initial state
+
 **-** Methods like **login(), main_screen(), add_item()** are class methods that perform specific actions
+
 **- self** is used to refer to the instance of the class, allowing methods to access and modify object attributes
 
 # III. SDG and its integration into the project
