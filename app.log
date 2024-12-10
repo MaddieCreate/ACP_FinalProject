@@ -1,0 +1,114 @@
+2024-12-03 19:38:05,578 - INFO - package: mysql.connector.plugins
+2024-12-03 19:38:05,579 - INFO - plugin_name: mysql_native_password
+2024-12-03 19:38:05,579 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 19:47:48,800 - INFO - package: mysql.connector.plugins
+2024-12-03 19:47:48,801 - INFO - plugin_name: mysql_native_password
+2024-12-03 19:47:48,802 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 19:58:46,579 - INFO - package: mysql.connector.plugins
+2024-12-03 19:58:46,580 - INFO - plugin_name: mysql_native_password
+2024-12-03 19:58:46,581 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 20:11:11,518 - INFO - package: mysql.connector.plugins
+2024-12-03 20:11:11,519 - INFO - plugin_name: mysql_native_password
+2024-12-03 20:11:11,520 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 20:21:00,395 - INFO - package: mysql.connector.plugins
+2024-12-03 20:21:00,395 - INFO - plugin_name: mysql_native_password
+2024-12-03 20:21:00,396 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 20:57:27,165 - INFO - package: mysql.connector.plugins
+2024-12-03 20:57:27,166 - INFO - plugin_name: mysql_native_password
+2024-12-03 20:57:27,167 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 20:59:02,156 - INFO - package: mysql.connector.plugins
+2024-12-03 20:59:02,156 - INFO - plugin_name: mysql_native_password
+2024-12-03 20:59:02,157 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 21:01:40,194 - INFO - package: mysql.connector.plugins
+2024-12-03 21:01:40,195 - INFO - plugin_name: mysql_native_password
+2024-12-03 21:01:40,196 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 21:02:07,661 - INFO - Added item: igoergh
+2024-12-03 21:20:46,567 - INFO - package: mysql.connector.plugins
+2024-12-03 21:20:46,567 - INFO - plugin_name: mysql_native_password
+2024-12-03 21:20:46,568 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 21:30:25,429 - INFO - package: mysql.connector.plugins
+2024-12-03 21:30:25,430 - INFO - plugin_name: mysql_native_password
+2024-12-03 21:30:25,431 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 21:59:13,169 - WARNING - Failed login attempt for username 'maddie'.
+2024-12-03 21:59:29,843 - INFO - User 'user1' logged in successfully.
+2024-12-03 22:00:58,189 - INFO - User 'user1' logged in successfully.
+2024-12-03 22:01:09,656 - INFO - package: mysql.connector.plugins
+2024-12-03 22:01:09,656 - INFO - plugin_name: mysql_native_password
+2024-12-03 22:01:09,657 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 22:02:36,913 - INFO - User 'user1' logged in successfully.
+2024-12-03 22:02:44,827 - INFO - package: mysql.connector.plugins
+2024-12-03 22:02:44,827 - INFO - plugin_name: mysql_native_password
+2024-12-03 22:02:44,829 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 22:03:42,164 - INFO - User 'user1' logged in successfully.
+2024-12-03 22:03:53,122 - INFO - package: mysql.connector.plugins
+2024-12-03 22:03:53,124 - INFO - plugin_name: mysql_native_password
+2024-12-03 22:03:53,125 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 22:14:54,631 - INFO - User 'user1' logged in successfully.
+2024-12-03 22:15:05,626 - INFO - package: mysql.connector.plugins
+2024-12-03 22:15:05,626 - INFO - plugin_name: mysql_native_password
+2024-12-03 22:15:05,628 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 22:53:35,156 - INFO - User 'user1' logged in successfully.
+2024-12-03 22:53:46,495 - INFO - package: mysql.connector.plugins
+2024-12-03 22:53:46,495 - INFO - plugin_name: mysql_native_password
+2024-12-03 22:53:46,496 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-03 23:00:21,324 - INFO - package: mysql.connector.plugins
+2024-12-03 23:00:21,325 - INFO - plugin_name: mysql_native_password
+2024-12-03 23:00:21,327 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 04:40:35,839 - INFO - User 'user1' logged in successfully.
+2024-12-05 04:57:30,935 - INFO - User 'user1' logged in successfully.
+2024-12-05 05:40:21,966 - WARNING - Failed login attempt for username 'user2'.
+2024-12-05 05:40:30,916 - INFO - User 'user2' logged in successfully.
+2024-12-05 07:04:51,366 - INFO - User 'user1' logged in successfully.
+2024-12-05 07:04:56,694 - WARNING - Failed login attempt for username ''.
+2024-12-05 07:05:11,264 - INFO - User 'user1' logged in successfully.
+2024-12-05 18:52:05,521 - WARNING - Failed login attempt for username 'user1'.
+2024-12-05 18:52:14,089 - INFO - User 'user1' logged in successfully.
+2024-12-05 18:53:27,705 - INFO - User 'user1' logged in successfully.
+2024-12-05 18:53:37,338 - INFO - package: mysql.connector.plugins
+2024-12-05 18:53:37,339 - INFO - plugin_name: mysql_native_password
+2024-12-05 18:53:37,340 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:02:07,265 - INFO - User 'maddie' logged in successfully.
+2024-12-05 19:02:15,768 - INFO - package: mysql.connector.plugins
+2024-12-05 19:02:15,769 - INFO - plugin_name: mysql_native_password
+2024-12-05 19:02:15,770 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:04:05,291 - INFO - User 'maddie' logged in successfully.
+2024-12-05 19:04:19,656 - INFO - package: mysql.connector.plugins
+2024-12-05 19:04:19,657 - INFO - plugin_name: mysql_native_password
+2024-12-05 19:04:19,658 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:05:00,182 - INFO - package: mysql.connector.plugins
+2024-12-05 19:05:00,183 - INFO - plugin_name: mysql_native_password
+2024-12-05 19:05:00,184 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:05:38,622 - INFO - package: mysql.connector.plugins
+2024-12-05 19:05:38,622 - INFO - plugin_name: mysql_native_password
+2024-12-05 19:05:38,623 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:08:22,507 - INFO - package: mysql.connector.plugins
+2024-12-05 19:08:22,508 - INFO - plugin_name: mysql_native_password
+2024-12-05 19:08:22,509 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:09:47,858 - INFO - User 'maddie' logged in successfully.
+2024-12-05 19:10:22,675 - INFO - package: mysql.connector.plugins
+2024-12-05 19:10:22,675 - INFO - plugin_name: mysql_native_password
+2024-12-05 19:10:22,676 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 19:12:01,746 - INFO - User 'maddie' logged in successfully.
+2024-12-05 19:13:30,211 - INFO - User 'maddie' logged in successfully.
+2024-12-05 20:04:23,744 - WARNING - Failed login attempt for username 'Maddie'.
+2024-12-05 20:04:29,894 - INFO - User 'maddie' logged in successfully.
+2024-12-05 20:24:00,322 - INFO - User 'maddie' logged in successfully.
+2024-12-05 20:24:05,829 - INFO - package: mysql.connector.plugins
+2024-12-05 20:24:05,829 - INFO - plugin_name: mysql_native_password
+2024-12-05 20:24:05,831 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 20:24:39,413 - INFO - User 'maddie' logged in successfully.
+2024-12-05 20:24:46,574 - INFO - package: mysql.connector.plugins
+2024-12-05 20:24:46,575 - INFO - plugin_name: mysql_native_password
+2024-12-05 20:24:46,576 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 20:32:41,392 - INFO - User 'maddie' logged in successfully.
+2024-12-05 20:36:29,136 - INFO - User 'maddie' logged in successfully.
+2024-12-05 20:36:54,902 - INFO - package: mysql.connector.plugins
+2024-12-05 20:36:54,903 - INFO - plugin_name: mysql_native_password
+2024-12-05 20:36:54,904 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-05 20:57:50,057 - WARNING - Failed login attempt for username 'maddie'.
+2024-12-05 20:57:53,407 - INFO - package: mysql.connector.plugins
+2024-12-05 20:57:53,408 - INFO - plugin_name: mysql_native_password
+2024-12-05 20:57:53,409 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-12-06 21:33:24,784 - WARNING - Failed login attempt for username 'user1'.
+2024-12-06 21:33:33,858 - WARNING - Failed login attempt for username 'user1'.
+2024-12-06 21:33:49,375 - INFO - User 'maddie' logged in successfully.
