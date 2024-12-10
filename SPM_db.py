@@ -13,7 +13,8 @@ def connect():
 def create_table():
     con = connect()
     cur = con.cursor()
-    
+
+#CUSTOMERS TABLE--------------------------------------------------------------------------------------------------------------------
     cur.execute("""
             CREATE TABLE IF NOT EXISTS Customers (
                 customer_id INT AUTO_INCREMENT PRIMARY KEY,
